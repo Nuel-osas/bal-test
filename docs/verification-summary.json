@@ -1,0 +1,180 @@
+{
+  "source": "https://www.suiball.com/",
+  "kind": "Historical migration verification; not rerun on each checkout",
+  "conditions": "Same Chrome, viewport and pixel ratio; fonts and entrance animations settled; videos paused at one second and CSS loops paused during screenshot comparisons; local browser blocks external HTTP requests. Pixelmatch threshold 0.15, antialiasing excluded.",
+  "screens": [
+    {
+      "name": "desktop-hero",
+      "differencePercent": 0,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "originalDocumentHeight": 30576,
+      "localDocumentHeight": 30576
+    },
+    {
+      "name": "desktop-sui",
+      "differencePercent": 0,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "originalDocumentHeight": 30576,
+      "localDocumentHeight": 30576
+    },
+    {
+      "name": "desktop-features",
+      "differencePercent": 0.036,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "originalDocumentHeight": 30576,
+      "localDocumentHeight": 30576
+    },
+    {
+      "name": "desktop-bitcoin",
+      "differencePercent": 0,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "originalDocumentHeight": 30576,
+      "localDocumentHeight": 30576
+    },
+    {
+      "name": "mobile-hero",
+      "differencePercent": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "originalDocumentHeight": 12048,
+      "localDocumentHeight": 12048
+    },
+    {
+      "name": "mobile-sui",
+      "differencePercent": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "originalDocumentHeight": 12048,
+      "localDocumentHeight": 12048
+    },
+    {
+      "name": "mobile-features",
+      "differencePercent": 0.133,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "originalDocumentHeight": 12390,
+      "localDocumentHeight": 12390
+    },
+    {
+      "name": "mobile-bitcoin",
+      "differencePercent": 0.012,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "originalDocumentHeight": 12707,
+      "localDocumentHeight": 12707
+    }
+  ],
+  "viewports": [
+    {
+      "name": "desktop",
+      "missingResponses": 0,
+      "externalAssetRequests": 0,
+      "runtimeErrors": [],
+      "anchorChecks": [
+        {
+          "id": "sui",
+          "hash": "#sui",
+          "top": 1.609375
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "top": 1.515625
+        },
+        {
+          "id": "security",
+          "hash": "#security",
+          "top": 1.078125
+        },
+        {
+          "id": "features",
+          "hash": "#features",
+          "top": 1.078125
+        },
+        {
+          "id": "bitcoin",
+          "hash": "#bitcoin",
+          "top": 0.875
+        },
+        {
+          "id": "suiball-nft",
+          "hash": "#suiball-nft",
+          "top": 0.875
+        }
+      ],
+      "videos": [
+        {
+          "path": "/assets/59ea91b5-wallet.webm",
+          "readyState": 4,
+          "duration": 7.7
+        },
+        {
+          "path": "/assets/94f50923-68beec7b72824f64caa9b4e1_webm_1-transcode.mp4",
+          "readyState": 4,
+          "duration": 7.7
+        },
+        {
+          "path": "/assets/b9fc79c5-robot.webm",
+          "readyState": 4,
+          "duration": 5.033
+        }
+      ],
+      "externalLinkDestinations": [
+        "https://order.suiball.com/",
+        "https://x.com/suiballO",
+        "https://claim.suiball.com/"
+      ]
+    },
+    {
+      "name": "mobile",
+      "missingResponses": 0,
+      "externalAssetRequests": 0,
+      "runtimeErrors": [],
+      "anchorChecks": [],
+      "videos": [
+        {
+          "path": "/assets/59ea91b5-wallet.webm",
+          "readyState": 4,
+          "duration": 7.7
+        },
+        {
+          "path": "/assets/94f50923-68beec7b72824f64caa9b4e1_webm_1-transcode.mp4",
+          "readyState": 4,
+          "duration": 7.7
+        },
+        {
+          "path": "/assets/b9fc79c5-robot.webm",
+          "readyState": 4,
+          "duration": 5.033
+        }
+      ],
+      "externalLinkDestinations": [
+        "https://order.suiball.com/",
+        "https://x.com/suiballO",
+        "https://claim.suiball.com/"
+      ]
+    }
+  ],
+  "passedNetworkAndRuntime": true,
+  "validationSeconds": 47.736
+}

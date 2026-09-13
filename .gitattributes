@@ -1,0 +1,2 @@
+# Preserve captured assets and classify their code as vendored on GitHub.
+public/assets/** -whitespace linguist-vendored

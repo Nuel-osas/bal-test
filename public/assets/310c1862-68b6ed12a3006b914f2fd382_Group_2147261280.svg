@@ -1,0 +1,50 @@
+<svg width="820" height="820" viewBox="0 0 820 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2020_5)">
+<rect x="2.5528" y="2.76587" width="814.86" height="814.86" rx="407.43" fill="#A9D1FF"/>
+<circle cx="409.976" cy="410.196" r="407.43" fill="#0041E6"/>
+<g filter="url(#filter0_f_2020_5)">
+<ellipse cx="613.692" cy="410.195" rx="371.581" ry="282.705" transform="rotate(90 613.692 410.195)" fill="black"/>
+</g>
+<g filter="url(#filter1_f_2020_5)">
+<ellipse cx="37.7798" cy="382.836" rx="429.862" ry="275.688" transform="rotate(90 37.7798 382.836)" fill="#A9D1FF"/>
+</g>
+<g filter="url(#filter2_f_2020_5)">
+<path d="M324.92 410.196C324.92 635.213 613.698 817.626 613.698 817.626C388.68 817.626 206.268 635.213 206.268 410.196C206.268 185.179 388.68 2.76587 613.698 2.76587C613.698 2.76587 324.92 185.179 324.92 410.196Z" fill="#0041E6"/>
+</g>
+<g filter="url(#filter3_f_2020_5)">
+<path d="M723.758 410.194C723.758 185.177 434.98 2.76382 434.98 2.76382C659.998 2.76384 842.41 185.177 842.41 410.194C842.41 635.211 659.997 817.624 434.98 817.624C434.98 817.624 723.758 635.211 723.758 410.194Z" fill="black"/>
+</g>
+</g>
+<circle cx="409.99" cy="410.194" r="408.346" stroke="url(#paint0_linear_2020_5)" stroke-width="1.83198"/>
+<defs>
+<filter id="filter0_f_2020_5" x="59.1251" y="-233.249" width="1109.13" height="1286.89" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="135.931" result="effect1_foregroundBlur_2020_5"/>
+</filter>
+<filter id="filter1_f_2020_5" x="-695.904" y="-505.022" width="1467.37" height="1775.72" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="228.998" result="effect1_foregroundBlur_2020_5"/>
+</filter>
+<filter id="filter2_f_2020_5" x="-30.2878" y="-233.79" width="880.541" height="1287.97" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="118.278" result="effect1_foregroundBlur_2020_5"/>
+</filter>
+<filter id="filter3_f_2020_5" x="198.425" y="-233.791" width="880.541" height="1287.97" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="118.278" result="effect1_foregroundBlur_2020_5"/>
+</filter>
+<linearGradient id="paint0_linear_2020_5" x1="410" y1="2.92988" x2="410" y2="817.247" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.153846" stop-color="#70A0F7"/>
+<stop offset="0.331731" stop-color="#12377A"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_2020_5">
+<rect x="2.5528" y="2.76587" width="814.86" height="814.86" rx="407.43" fill="white"/>
+</clipPath>
+</defs>
+</svg>

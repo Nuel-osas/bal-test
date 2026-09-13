@@ -1,0 +1,528 @@
+{
+  "source": "https://www.suiball.com/",
+  "assets": [
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=68b492f833caf28bf888ba3d",
+      "destination": "/assets/141fe324-jquery-3.5.1.min.dc5e7f18c8.js",
+      "bytes": 89476
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/js/webflow.schunk.36b8fb49256177c8.js",
+      "destination": "/assets/f1d248bd-webflow.schunk.36b8fb49256177c8.js",
+      "bytes": 41429
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/js/webflow.schunk.c42549641b7d4501.js",
+      "destination": "/assets/e43c437d-webflow.schunk.c42549641b7d4501.js",
+      "bytes": 304844
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/js/webflow.schunk.fa5f010941276674.js",
+      "destination": "/assets/44996c1e-webflow.schunk.fa5f010941276674.js",
+      "bytes": 337447
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/js/webflow.f2764aae.33bd39c3b80a9f81.js",
+      "destination": "/assets/9d53d188-webflow.f2764aae.33bd39c3b80a9f81.js",
+      "bytes": 22136
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js",
+      "destination": "/assets/636c5044-gsap.min.js",
+      "bytes": 72927
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js",
+      "destination": "/assets/2e36e6df-SplitText.min.js",
+      "bytes": 7732
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js",
+      "destination": "/assets/b3fa4a43-ScrollTrigger.min.js",
+      "bytes": 44575
+    },
+    {
+      "url": "https://unpkg.com/@studio-freight/lenis@1.0.33/dist/lenis.min.js",
+      "destination": "/assets/24cc2e3d-lenis.min.js",
+      "bytes": 10445
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js",
+      "destination": "/assets/76e251ff-gsap.min.js",
+      "bytes": 72435
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js",
+      "destination": "/assets/a834d0a5-ScrollTrigger.min.js",
+      "bytes": 44157
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/SplitText.min.js",
+      "destination": "/assets/2d1ce644-SplitText.min.js",
+      "bytes": 7247
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/css/andranik-kulikyan.webflow.shared.956bab015.css",
+      "destination": "/assets/bb50d1b9-andranik-kulikyan.webflow.shared.956bab015.css",
+      "bytes": 113433
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b492f933caf28bf888baff_web-clip.png",
+      "destination": "/assets/e8a0e349-68b492f933caf28bf888baff_web-clip.png",
+      "bytes": 1690
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b4a18fc943c775748087b8_Vector.svg",
+      "destination": "/assets/1897017d-68b4a18fc943c775748087b8_Vector.svg",
+      "bytes": 549
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68d2f81abebaa20e7677fae6_x-icon.svg",
+      "destination": "/assets/b9853003-68d2f81abebaa20e7677fae6_x-icon.svg",
+      "bytes": 524
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7ca5c8ee1a2e67b1445de_Vector%20(17).svg",
+      "destination": "/assets/cdb7b45f-68b7ca5c8ee1a2e67b1445de_Vector__17_.svg",
+      "bytes": 758
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7ca5c9ba7e6875ac59d81_Vector%20(18).svg",
+      "destination": "/assets/e7a498c0-68b7ca5c9ba7e6875ac59d81_Vector__18_.svg",
+      "bytes": 416
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7ca5cee1bb52eefde865f_Vector%20(19).svg",
+      "destination": "/assets/f49d1ada-68b7ca5cee1bb52eefde865f_Vector__19_.svg",
+      "bytes": 229
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7ca5cf25e4ec3f8aa5953_Vector%20(20).svg",
+      "destination": "/assets/26f11a8e-68b7ca5cf25e4ec3f8aa5953_Vector__20_.svg",
+      "bytes": 615
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7ca5c62ec6b44d71fac50_Vector%20(21).svg",
+      "destination": "/assets/ebc807f3-68b7ca5c62ec6b44d71fac50_Vector__21_.svg",
+      "bytes": 793
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7ca5c62ec6b44d71fac4c_Vector%20(22).svg",
+      "destination": "/assets/1c20da7f-68b7ca5c62ec6b44d71fac4c_Vector__22_.svg",
+      "bytes": 181
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b9812d64681af7479f20f0_hand%20png%20(1).avif",
+      "destination": "/assets/48bf6858-68b9812d64681af7479f20f0_hand_png__1_.avif",
+      "bytes": 23835
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7cba98710dce0778aba1c_Hero%20BKGD%20(1).avif",
+      "destination": "/assets/527729e5-68b7cba98710dce0778aba1c_Hero_BKGD__1_.avif",
+      "bytes": 4185
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b72f5c89d9b5577ffd0e58_gradient%20(4)%20(1).avif",
+      "destination": "/assets/48b95042-68b72f5c89d9b5577ffd0e58_gradient__4___1_.avif",
+      "bytes": 23894
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c5577f83cf51eb4fcac1cf_Vector%20(88).svg",
+      "destination": "/assets/3a0e3b5f-68c5577f83cf51eb4fcac1cf_Vector__88_.svg",
+      "bytes": 1437
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf46b944722b43413b58be_blue.png",
+      "destination": "/assets/3df6275a-68bf46b944722b43413b58be_blue.png",
+      "bytes": 962725
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c555c3b7460632c152234e_Circle%20Right%20(1).svg",
+      "destination": "/assets/d36cc1b3-68c555c3b7460632c152234e_Circle_Right__1_.svg",
+      "bytes": 2936
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b709e26f6cd2900922ce09_Circle%20Right%20(4)%201.avif",
+      "destination": "/assets/ba6bca55-68b709e26f6cd2900922ce09_Circle_Right__4__1.avif",
+      "bytes": 15604
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b70a5c99b5560a625af20e_Circle%20Right%20(5)%201.avif",
+      "destination": "/assets/7cb3b827-68b70a5c99b5560a625af20e_Circle_Right__5__1.avif",
+      "bytes": 11312
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b6ed12a3006b914f2fd382_Group%202147261280.svg",
+      "destination": "/assets/310c1862-68b6ed12a3006b914f2fd382_Group_2147261280.svg",
+      "bytes": 3251
+    },
+    {
+      "url": "https://sui-dev.b-cdn.net/SuiPlay/wallet.webm",
+      "destination": "/assets/59ea91b5-wallet.webm",
+      "bytes": 1850148
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b75dfceb5560349ccb0bc0_Circle%20Center%20(1).avif",
+      "destination": "/assets/f87cd07a-68b75dfceb5560349ccb0bc0_Circle_Center__1_.avif",
+      "bytes": 4660
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d%2F68beec7b72824f64caa9b4e1_webm_1-transcode.mp4",
+      "destination": "/assets/94f50923-68beec7b72824f64caa9b4e1_webm_1-transcode.mp4",
+      "bytes": 638461
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d%2F68beec7b72824f64caa9b4e1_webm_1-transcode.webm",
+      "destination": "/assets/2f9ac43c-68beec7b72824f64caa9b4e1_webm_1-transcode.webm",
+      "bytes": 1754029
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac1d19bdfada9d38f319d_006%20(1).png",
+      "destination": "/assets/72a1d970-68bac1d19bdfada9d38f319d_006__1_.png",
+      "bytes": 65695
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b75c7cdc1c2706211eaf69_Semi%20Circle.avif",
+      "destination": "/assets/506313e4-68b75c7cdc1c2706211eaf69_Semi_Circle.avif",
+      "bytes": 2624
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b75c7cee07df05353c574d_Semi%20Circle%20(1).avif",
+      "destination": "/assets/c352f0e1-68b75c7cee07df05353c574d_Semi_Circle__1_.avif",
+      "bytes": 2729
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c8450022dbe2273e0a738d_Sign%20Play%20Pay%20Sign%20New.json",
+      "destination": "/assets/ccc440d2-68c8450022dbe2273e0a738d_Sign_Play_Pay_Sign_New.json",
+      "bytes": 193652
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf336ce3d12e4e7c59d896_sui%20btc%20new.json",
+      "destination": "/assets/552cd9b8-68bf336ce3d12e4e7c59d896_sui_btc_new.json",
+      "bytes": 64259
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf480de233082c6b392fe9_golden.png",
+      "destination": "/assets/426ad7a5-68bf480de233082c6b392fe9_golden.png",
+      "bytes": 959465
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c551116a552c0fe85299eb_bitcoin%20send.json",
+      "destination": "/assets/c190d49c-68c551116a552c0fe85299eb_bitcoin_send.json",
+      "bytes": 19450
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b816ef09865af49d1b060d_Frame%202147267474%20(1).avif",
+      "destination": "/assets/a0d1ab00-68b816ef09865af49d1b060d_Frame_2147267474__1_.avif",
+      "bytes": 9819
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b817a4ebce266a1b0f6257_Frame%202147267475%20(1).avif",
+      "destination": "/assets/f6f6d908-68b817a4ebce266a1b0f6257_Frame_2147267475__1_.avif",
+      "bytes": 9196
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bc52ee0df74d5bdffc0bad_Bitcoin%20trade.lottie",
+      "destination": "/assets/a7a3e0f4-68bc52ee0df74d5bdffc0bad_Bitcoin_trade.lottie",
+      "bytes": 3305
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025%2C-09_54_36%201.avif",
+      "destination": "/assets/787c98c0-68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025_-09_54_36_1.avif",
+      "bytes": 36677
+    },
+    {
+      "url": "https://sui-dev.b-cdn.net/SuiPlay/robot.webm",
+      "destination": "/assets/b9fc79c5-robot.webm",
+      "bytes": 1259966
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac119a5ba6dd461fb0f4b_02%20(1).png",
+      "destination": "/assets/3c6142d5-68bac119a5ba6dd461fb0f4b_02__1_.png",
+      "bytes": 112912
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b778259d45340ec9e9bbb5_Mask%20group%20(1).svg",
+      "destination": "/assets/aa22ef6a-68b778259d45340ec9e9bbb5_Mask_group__1_.svg",
+      "bytes": 5578
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b778ec7300b1b5a50e1b05_Ellipse%2012138.avif",
+      "destination": "/assets/0011d508-68b778ec7300b1b5a50e1b05_Ellipse_12138.avif",
+      "bytes": 174426
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b77f4c566cf0e9dfa732bc_Group%202147261280.avif",
+      "destination": "/assets/3261efa1-68b77f4c566cf0e9dfa732bc_Group_2147261280.avif",
+      "bytes": 4547
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b77f4c3e0618f45806a5a5_image%205.svg",
+      "destination": "/assets/21687f01-68b77f4c3e0618f45806a5a5_image_5.svg",
+      "bytes": 43864
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b77f4c745f744cb0fc1b29_image%204.svg",
+      "destination": "/assets/df286d34-68b77f4c745f744cb0fc1b29_image_4.svg",
+      "bytes": 117534
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c844c16751b028cd1c03b8_CitadelLogo.png",
+      "destination": "/assets/81506682-68c844c16751b028cd1c03b8_CitadelLogo.png",
+      "bytes": 71555
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68cbc5fc9e534cdd036effeb_LOGO%20SUIBALL.json",
+      "destination": "/assets/d53fbe3d-68cbc5fc9e534cdd036effeb_LOGO_SUIBALL.json",
+      "bytes": 40374
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7852d18c83bf9b5e7c101_04%201%20(1).avif",
+      "destination": "/assets/1330afe3-68b7852d18c83bf9b5e7c101_04_1__1_.avif",
+      "bytes": 7486
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7852d6f2776c9d9b83c17_04%202.avif",
+      "destination": "/assets/3cc9fb6e-68b7852d6f2776c9d9b83c17_04_2.avif",
+      "bytes": 7604
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bef2ac6de047a3815ab5f9_lateral.png",
+      "destination": "/assets/24719369-68bef2ac6de047a3815ab5f9_lateral.png",
+      "bytes": 1860950
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b9812d64681af7479f20f0_hand%20png%20(1)-p-500.avif",
+      "destination": "/assets/9dcb40c8-68b9812d64681af7479f20f0_hand_png__1_-p-500.avif",
+      "bytes": 7514
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b9812d64681af7479f20f0_hand%20png%20(1)-p-800.avif",
+      "destination": "/assets/c213ed5e-68b9812d64681af7479f20f0_hand_png__1_-p-800.avif",
+      "bytes": 12498
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b9812d64681af7479f20f0_hand%20png%20(1)-p-1080.avif",
+      "destination": "/assets/33ce31b7-68b9812d64681af7479f20f0_hand_png__1_-p-1080.avif",
+      "bytes": 16412
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b7cba98710dce0778aba1c_Hero%20BKGD%20(1)-p-500.avif",
+      "destination": "/assets/50e10ced-68b7cba98710dce0778aba1c_Hero_BKGD__1_-p-500.avif",
+      "bytes": 3402
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf46b944722b43413b58be_blue-p-500.png",
+      "destination": "/assets/7348c597-68bf46b944722b43413b58be_blue-p-500.png",
+      "bytes": 16322
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf46b944722b43413b58be_blue-p-800.png",
+      "destination": "/assets/e824d75f-68bf46b944722b43413b58be_blue-p-800.png",
+      "bytes": 89263
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf46b944722b43413b58be_blue-p-1080.png",
+      "destination": "/assets/a84305f4-68bf46b944722b43413b58be_blue-p-1080.png",
+      "bytes": 167981
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac1d19bdfada9d38f319d_006%20(1)-p-500.png",
+      "destination": "/assets/a40ed680-68bac1d19bdfada9d38f319d_006__1_-p-500.png",
+      "bytes": 17550
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac1d19bdfada9d38f319d_006%20(1)-p-800.png",
+      "destination": "/assets/4b469769-68bac1d19bdfada9d38f319d_006__1_-p-800.png",
+      "bytes": 34176
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac1d19bdfada9d38f319d_006%20(1)-p-1080.png",
+      "destination": "/assets/517e743e-68bac1d19bdfada9d38f319d_006__1_-p-1080.png",
+      "bytes": 55090
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf480de233082c6b392fe9_golden-p-500.png",
+      "destination": "/assets/6d9f24f1-68bf480de233082c6b392fe9_golden-p-500.png",
+      "bytes": 16673
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf480de233082c6b392fe9_golden-p-800.png",
+      "destination": "/assets/dd2d6f6e-68bf480de233082c6b392fe9_golden-p-800.png",
+      "bytes": 90447
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bf480de233082c6b392fe9_golden-p-1080.png",
+      "destination": "/assets/abe1b3c9-68bf480de233082c6b392fe9_golden-p-1080.png",
+      "bytes": 170583
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b816ef09865af49d1b060d_Frame%202147267474%20(1)-p-500.avif",
+      "destination": "/assets/245b051e-68b816ef09865af49d1b060d_Frame_2147267474__1_-p-500.avif",
+      "bytes": 7310
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025%2C-09_54_36%201-p-500.avif",
+      "destination": "/assets/544a86d5-68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025_-09_54_36_1-p-500.avif",
+      "bytes": 11454
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025%2C-09_54_36%201-p-800.avif",
+      "destination": "/assets/60a04011-68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025_-09_54_36_1-p-800.avif",
+      "bytes": 18744
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025%2C-09_54_36%201-p-1080.avif",
+      "destination": "/assets/88f8523f-68b5c12941eb095052bc191a_ChatGPT-Image-8-ago-2025_-09_54_36_1-p-1080.avif",
+      "bytes": 29352
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac119a5ba6dd461fb0f4b_02%20(1)-p-500.png",
+      "destination": "/assets/fc45d93b-68bac119a5ba6dd461fb0f4b_02__1_-p-500.png",
+      "bytes": 30583
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac119a5ba6dd461fb0f4b_02%20(1)-p-800.png",
+      "destination": "/assets/201ed537-68bac119a5ba6dd461fb0f4b_02__1_-p-800.png",
+      "bytes": 63835
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bac119a5ba6dd461fb0f4b_02%20(1)-p-1080.png",
+      "destination": "/assets/342136f7-68bac119a5ba6dd461fb0f4b_02__1_-p-1080.png",
+      "bytes": 104783
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b778ec7300b1b5a50e1b05_Ellipse%2012138-p-500.avif",
+      "destination": "/assets/c188a92e-68b778ec7300b1b5a50e1b05_Ellipse_12138-p-500.avif",
+      "bytes": 57332
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b778ec7300b1b5a50e1b05_Ellipse%2012138-p-800.avif",
+      "destination": "/assets/c16fe352-68b778ec7300b1b5a50e1b05_Ellipse_12138-p-800.avif",
+      "bytes": 169624
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c844c16751b028cd1c03b8_CitadelLogo-p-500.png",
+      "destination": "/assets/beeb8556-68c844c16751b028cd1c03b8_CitadelLogo-p-500.png",
+      "bytes": 10792
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c844c16751b028cd1c03b8_CitadelLogo-p-800.png",
+      "destination": "/assets/0ff7a603-68c844c16751b028cd1c03b8_CitadelLogo-p-800.png",
+      "bytes": 17157
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68c844c16751b028cd1c03b8_CitadelLogo-p-1080.png",
+      "destination": "/assets/9ab84dfc-68c844c16751b028cd1c03b8_CitadelLogo-p-1080.png",
+      "bytes": 24388
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bef2ac6de047a3815ab5f9_lateral-p-500.png",
+      "destination": "/assets/f08da679-68bef2ac6de047a3815ab5f9_lateral-p-500.png",
+      "bytes": 16057
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bef2ac6de047a3815ab5f9_lateral-p-800.png",
+      "destination": "/assets/e016db06-68bef2ac6de047a3815ab5f9_lateral-p-800.png",
+      "bytes": 34213
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bef2ac6de047a3815ab5f9_lateral-p-1080.png",
+      "destination": "/assets/5b38ff63-68bef2ac6de047a3815ab5f9_lateral-p-1080.png",
+      "bytes": 59157
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bef2ac6de047a3815ab5f9_lateral-p-1600.png",
+      "destination": "/assets/06302a36-68bef2ac6de047a3815ab5f9_lateral-p-1600.png",
+      "bytes": 142074
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68bef2ac6de047a3815ab5f9_lateral-p-2000.png",
+      "destination": "/assets/2e824db8-68bef2ac6de047a3815ab5f9_lateral-p-2000.png",
+      "bytes": 225613
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d%2F68beec7b72824f64caa9b4e1_webm_1-poster-00001.jpg",
+      "destination": "/assets/cd959f44-68beec7b72824f64caa9b4e1_webm_1-poster-00001.jpg",
+      "bytes": 22159
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b4a3c2b463e5c2bf2dec18_fonnts.com-Maison_Neue_Light.ttf",
+      "destination": "/assets/f84447bf-68b4a3c2b463e5c2bf2dec18_fonnts.com-Maison_Neue_Light.ttf",
+      "bytes": 52064
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b4a3c216a5aa1453060e4c_fonnts.com-Maison_Neue_Mono.ttf",
+      "destination": "/assets/b802424c-68b4a3c216a5aa1453060e4c_fonnts.com-Maison_Neue_Mono.ttf",
+      "bytes": 52616
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b4a452aa96bffca09ae891_fonnts.com-Maison_Neue_Bold.ttf",
+      "destination": "/assets/a56872a3-68b4a452aa96bffca09ae891_fonnts.com-Maison_Neue_Bold.ttf",
+      "bytes": 70792
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b4be2c458a47d9d83270c6_MaisonNeueExt-Medium.otf",
+      "destination": "/assets/a13ed881-68b4be2c458a47d9d83270c6_MaisonNeueExt-Medium.otf",
+      "bytes": 140868
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68b802d762bc57da361b36f2_gradient%20(5).avif",
+      "destination": "/assets/1fe48f1f-68b802d762bc57da361b36f2_gradient__5_.avif",
+      "bytes": 2841
+    },
+    {
+      "url": "http://fonts.googleapis.com/css?family=Inter:300,400,500,600,700",
+      "destination": "/assets/14bac30b-css.css",
+      "bytes": 1045
+    },
+    {
+      "url": "http://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2",
+      "destination": "/assets/eb963a9e-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2",
+      "bytes": 25844
+    },
+    {
+      "url": "http://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2",
+      "destination": "/assets/1ee564ff-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2",
+      "bytes": 18744
+    },
+    {
+      "url": "http://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2",
+      "destination": "/assets/75fabac3-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2",
+      "bytes": 11272
+    },
+    {
+      "url": "http://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2",
+      "destination": "/assets/d770c815-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2",
+      "bytes": 19044
+    },
+    {
+      "url": "http://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2",
+      "destination": "/assets/57a819be-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2",
+      "bytes": 10280
+    },
+    {
+      "url": "http://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2",
+      "destination": "/assets/bc2fadab-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2",
+      "bytes": 85272
+    },
+    {
+      "url": "http://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "destination": "/assets/bbd5ec12-UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "bytes": 48432
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b492f833caf28bf888ba3d/68dd94b9bd58fdb41324ca77_Suiball.png",
+      "destination": "/assets/favicon.png",
+      "bytes": 1197
+    }
+  ],
+  "adaptations": [
+    "Converted page markup into 16 editable React components plus the page composition.",
+    "Local asset names normalize encoded spaces/slashes.",
+    "Two invalid your.cdn media placeholders omitted; functional WebM retained.",
+    "Hidden zero-size Spline embed omitted; confirmed display:none on desktop and mobile.",
+    "Webflow/GSAP visual runtime retained and initialized after hydration.",
+    "External preorder, claim and social links preserved."
+  ]
+}
